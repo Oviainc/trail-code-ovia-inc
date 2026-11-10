@@ -1,3 +1,11 @@
+![Ovia Inc — Trail Code: the self-learning context layer for coding agents, a map of the codebase with team decisions pinned to it](assets/trail-code-banner.png)
+
+> **Ovia Inc fork** — We maintain this fork of [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code): one shared memory for every coding agent on a team — a self-learning context layer that gives coding agents a map of the codebase and the team's past decisions, so context compounds instead of resetting per session. Trail Code is the successor to Graft (see the Graft-ovia-inc snapshot in this collection, kept as the pre-rebrand record).
+>
+> **Story:** the collection already holds the origin of this line — the NanoNets project that became Graft — and the rebrand to Trail Code, with its centre of gravity moved to shared team memory for coding agents, is exactly our field: what an agent knows, how it got it, and how the next agent inherits it. This fork is the current upstream line; the older snapshot stays untouched as the historical record. Upstream credit: Trail (formerly NanoNets). License: MIT (see LICENSE). The upstream project is documented below.
+
+---
+
 <div align="center">
 
 <picture>
